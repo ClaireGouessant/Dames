@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1452636041 source:d:\_claire2_\dame_essais\dames_claire\main.c
+	"entete.h"
+
+1452516283 d:\_claire2_\dame_essais\dames_claire\entete.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	<string.h>
+
+1451692369 source:d:\_claire2_\dame_essais\dames_claire\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1451692343 d:\_claire2_\dame_essais\dames_claire\conio.h
+	<stdio.h>
+
+1451692369 source:d:\_claire2_\prog en bazar\c\dame_essais\dames_claire\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1451692343 d:\_claire2_\prog en bazar\c\dame_essais\dames_claire\conio.h
+	<stdio.h>
+
