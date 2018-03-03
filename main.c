@@ -1,32 +1,34 @@
 /* **********
- * Jeu de dames initialement créée par cs_gorgonzola puis revu et corrigé par Claire Gouessant.
+ * Jeu de dames initialement crÃ©Ã©e par cs_gorgonzola puis revu et corrigÃ© par Claire Gouessant.
  * 
  * * Version originale :
  * * 
  * * Jeu de dames en mode texte [dev-c++]------------------------------------
- * * Url     : http://codes-sources.commentcamarche.net/source/9690-jeu-de-dames-en-mode-texte-dev-cAuteur  : cs_gorgonzolaDate    : 17/08/2013
+ * * Url     : http://codes-sources.commentcamarche.net/source/9690-jeu-de-dames-en-mode-texte-dev-c
+ * * Auteur  : cs_gorgonzola
+ * * Date    : 17/08/2013
  * * =========
  * * 
  * * Licence :
  * *
- * * Ce document intitulé « Jeu de dames en mode texte [dev-c++] » issu de CommentCaMarche
- * * (codes-sources.commentcamarche.net) est mis à disposition sous les termes de
+ * * Ce document intitulÃ© Â« Jeu de dames en mode texte [dev-c++] Â» issu de CommentCaMarche
+ * * (codes-sources.commentcamarche.net) est mis Ã  disposition sous les termes de
  * * la licence Creative Commons. Vous pouvez copier, modifier des copies de cette
- * * source, dans les conditions fixées par la licence, tant que cette note
- * * apparaît clairement.
+ * * source, dans les conditions fixÃ©es par la licence, tant que cette note
+ * * apparaÃ®t clairement.
  * * =============
  * *
  * * Description :
  * *
  * * voila la source d'un jeu de dames que j'ai faites, elle est tres longue  (1000 lignes) 
  * * mais pas trop complique, j'esperes que j'ai assez commente le code.
- * * Le seul defaut est qu'on ne peut pas manger plusieurs pions à la fois 
+ * * Le seul defaut est qu'on ne peut pas manger plusieurs pions Ã  la fois 
  * * comme on peut le faire en vrai.
  *
- * Description réctificative : (version corrigée par Claire Gouessant)
+ * Description rÃ©ctificative : (version corrigÃ©e par Claire Gouessant)
  *
- * Il est désormais possible de manger plusieurs pions en un seul coup.
- * Réctifications de bogues concernant les tours des joueurs, l'affichage et les dames.
+ * Il est dÃ©sormais possible de manger plusieurs pions en un seul coup.
+ * RÃ©ctifications de bogues concernant les tours des joueurs, l'affichage et les dames.
  *
  ********** */
 
